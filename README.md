@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Javier Guijosa 👋
+#! Hola, mi nombre es Javier Guijosa 👋
 ### Estudiante de Desarrollo De Aplicaciones Multiplataforma 
 
 
@@ -7,6 +7,7 @@
 En 2022 empeze a estudiar un CFGS de Desarrollo de Aplicaciones Multiplataforma para crecer y aprender como profesional dentro de la industria del desarrollo web.
 Desde entonces trato de convalidar mis estudios actuales con otros cursos en udemy especializado en lenguajes como python y sql.
 Me gustaría adquirir de alguna manera mas conocimientos sobre la industria tecnologica para seguir avanzando con una gran proyeccion de futuro. 
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
 ## Tecnologías:
 
@@ -27,10 +28,7 @@ Y alguna más...
 
 
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 
 ## Contacto:
-[![Email] #jguijosa@alumnat.copernic.cat
+## jguijosa@alumnat.copernic.cat
