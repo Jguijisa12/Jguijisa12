@@ -1,4 +1,4 @@
-#! Hola, mi nombre es Javier Guijosa 👋
+### Hola, mi nombre es Javier Guijosa 👋
 ### Estudiante de Desarrollo De Aplicaciones Multiplataforma 
 
 
